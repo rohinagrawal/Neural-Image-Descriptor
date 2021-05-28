@@ -26,3 +26,6 @@ This sub-project is done on `Fashion MNIST` dataset.
 Download Dataset from `https://www.kaggle.com/zalando-research/fashionmnist`.  
 
 Learn More about this Image Classification from :- `https://medium.com/swlh/exploring-fashion-mnist-with-tensorflow-and-keras-aa780b766149`
+
+## References -  
+1. https://medium.com/deep-math-machine-learning-ai/chapter-8-0-convolutional-neural-networks-for-deep-learning-364971e34ab2
